@@ -12,5 +12,8 @@ int main()
 
 ```
 
-$a+b=c$
+test $$a+b=c$$ test.
 
+$$
+a+b=c
+$$
