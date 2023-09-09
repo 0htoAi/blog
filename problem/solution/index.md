@@ -2,7 +2,7 @@
 
 ## CodeForces
 
-[CF1477E](/blog/problem/solution/solution_CF1477E)
+[CF1477E](/blog/problem/solution/cf1477e)
 
 ## Atcoder
 
