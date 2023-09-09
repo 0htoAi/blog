@@ -1,3 +1,5 @@
-[题解]()
+## 单题
 
-[代码]()
+[题解](/blog/problem/solution/index)
+
+[代码](/blog/problem/code/index)
