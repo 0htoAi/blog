@@ -15,4 +15,4 @@
 我的 atcoder 账号：![](https://atrating.baoshuo.dev/rating?username=OhtoAi)
 
 
-感谢 @Eznibuil 对我的博客提供的技术支持。
+感谢 @[Eznibuil](https://www.luogu.com.cn/user/335096) 对我的博客提供的技术支持。
