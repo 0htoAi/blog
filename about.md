@@ -23,3 +23,5 @@
 本博客将会不定期更新。由于没有办法方便地查看更新动态，我会人肉更新 [动态](/blog/dynamic)。
 
 感谢 @[Eznibuil](https://www.luogu.com.cn/user/335096) 对我的博客提供的技术支持。
+
+test
