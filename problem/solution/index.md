@@ -2,8 +2,6 @@
 
 ## CodeForces
 
-[CF1477E](/blog/problem/solution/cf1477e)
-
 ## Atcoder
 
 ## LOJ
