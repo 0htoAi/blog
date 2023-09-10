@@ -10,4 +10,6 @@
 
 ## UOJ
 
+[UOJ#33](/blog/problem/code/uoj33)
+
 ## NKOJ
