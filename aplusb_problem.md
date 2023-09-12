@@ -25,3 +25,5 @@ test3+1
 test4
 
 test5
+
+$test6$。
