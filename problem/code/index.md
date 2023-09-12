@@ -2,6 +2,8 @@
 
 [缺省源](/blog/problem/code/default_source)
 
+[简易对拍教程](/blog/problem/code/duipai)
+
 ## CodeForces
 
 ## Atcoder
