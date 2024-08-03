@@ -12,4 +12,4 @@
 
 [最后一次](/blog/lastime)
 
-
+[失忆](/blog/amnesia)
